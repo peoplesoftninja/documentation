@@ -92,7 +92,7 @@ ps_home:
 * `set TMP=c:/temp`
 * `echo %TEMP%` and `echo %TMP%` to verify the variables are set properly
 * Run the following command `"C:\Program Files\Puppet Labs\Puppet\bin\puppet.bat" apply --confdir=C:\app\psft\dpk\puppet site.pp --debug --trace --logdest C:\temp\install2.log`
-* Read More about error here [Installation Error](### Installation Error)
+* Read More about error here [Installation Error](#installation-error)
 
 
 ## Setting Up the Install Workstation
@@ -190,7 +190,7 @@ disabled Global Password
 
 * Script running, approximate time 4 hours
 * Scripts Completed Successfully. 5 Logs created. `csengl`, `csengs`, `encrypt`, `triggers` and `views`
-* Received an error during this, refer - [Scripts Generation Error](###Scripts-Generation-Error)
+* Received an error during this, refer - [Scripts Generation Error](#scripts-generation-error)
 
 ## Checking the Database
 
